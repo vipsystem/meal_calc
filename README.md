@@ -1,0 +1,1 @@
+Ruby program that calculates costs for a new food service provider, HappyBurger.
